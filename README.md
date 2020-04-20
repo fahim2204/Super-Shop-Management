@@ -6,6 +6,7 @@ Tools Used:
     1. NotePad
     2. Cmd
     3. Xampp
+    4. MySql
  
  Instruction:
     Don't delete any file and image.

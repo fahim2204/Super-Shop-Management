@@ -61,7 +61,7 @@ This project is about a super shop management system software using JAVA program
 > **Fig:** Employee Table 
 
 ### Tools Used: 
-To develop this project we have used the following: 
+To develop this project I have used the following: 
 -	[JDK ( Java Development Kit)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 
 -	[Eclipse IDE](https://www.eclipse.org) 
 -	[MySQL](https://www.mysql.com) 

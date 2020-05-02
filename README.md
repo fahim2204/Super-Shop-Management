@@ -1,4 +1,9 @@
-# **Super Shop Management**
+<h1 align="center">
+  <br>
+  Super Shop Management
+  <br>
+</h1>
+
 ## Introduction: 
 This project is about a super shop management system software using JAVA programming language. It is mainly windows based software. This management software is very helpful to manage different super shop related activity like entry and selling of goods or products, employee management. This project is done for our final project of Object Oriented Programming-1 course. 
 
